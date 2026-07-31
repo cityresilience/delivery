@@ -1,0 +1,90 @@
+year,cumulative_sq_km,source,growth_percentage
+1985,12.8,WSF Evolution,
+1994,14.094,WSF Evolution,10.107
+1995,15.279,WSF Evolution,8.409
+1996,15.999,WSF Evolution,4.71
+1997,16.486,WSF Evolution,3.044
+1998,17.138,WSF Evolution,3.952
+1999,17.826,WSF Evolution,4.019
+2000,18.213,WSF Evolution,2.168
+2001,18.609,WSF Evolution,2.178
+2002,18.973,WSF Evolution,1.954
+2003,19.512,WSF Evolution,2.844
+2004,19.893,WSF Evolution,1.95
+2005,20.298,WSF Evolution,2.038
+2006,20.576,WSF Evolution,1.366
+2007,20.916,WSF Evolution,1.656
+2008,21.252,WSF Evolution,1.606
+2009,21.647,WSF Evolution,1.86
+2010,21.859,WSF Evolution,0.978
+2011,22.085,WSF Evolution,1.034
+2012,22.264,WSF Evolution,0.809
+2013,22.441,WSF Evolution,0.797
+2014,22.669,WSF Evolution,1.013
+2015,23.04,WSF Evolution,1.64
+1985,10.804,WSF Evolution (masked),
+1994,11.959,WSF Evolution (masked),10.689
+1995,13.012,WSF Evolution (masked),8.81
+1996,13.638,WSF Evolution (masked),4.811
+1997,14.047,WSF Evolution (masked),2.997
+1998,14.533,WSF Evolution (masked),3.457
+1999,15.119,WSF Evolution (masked),4.033
+2000,15.437,WSF Evolution (masked),2.106
+2001,15.77,WSF Evolution (masked),2.159
+2002,16.078,WSF Evolution (masked),1.95
+2003,16.475,WSF Evolution (masked),2.471
+2004,16.791,WSF Evolution (masked),1.916
+2005,17.12,WSF Evolution (masked),1.96
+2006,17.325,WSF Evolution (masked),1.198
+2007,17.572,WSF Evolution (masked),1.425
+2008,17.823,WSF Evolution (masked),1.428
+2009,18.074,WSF Evolution (masked),1.412
+2010,18.215,WSF Evolution (masked),0.78
+2011,18.367,WSF Evolution (masked),0.833
+2012,18.474,WSF Evolution (masked),0.584
+2013,18.567,WSF Evolution (masked),0.504
+2014,18.669,WSF Evolution (masked),0.549
+2015,18.775,WSF Evolution (masked),0.564
+2016,20.155,WSF Tracker,
+2017,20.631,WSF Tracker,2.363
+2018,20.891,WSF Tracker,1.259
+2019,21.092,WSF Tracker,0.962
+2020,21.331,WSF Tracker,1.135
+2021,21.525,WSF Tracker,0.911
+2022,21.705,WSF Tracker,0.837
+2023,22.041,WSF Tracker,1.548
+2024,22.293,WSF Tracker,1.141
+2025,22.633,WSF Tracker,1.528
+1985,11.107,WSF Harmonized,
+1994,12.278,WSF Harmonized,10.549
+1995,13.347,WSF Harmonized,8.707
+1996,14.045,WSF Harmonized,5.225
+1997,14.466,WSF Harmonized,3.002
+1998,14.996,WSF Harmonized,3.66
+1999,15.62,WSF Harmonized,4.161
+2000,15.966,WSF Harmonized,2.215
+2001,16.326,WSF Harmonized,2.256
+2002,16.657,WSF Harmonized,2.024
+2003,17.084,WSF Harmonized,2.563
+2004,17.421,WSF Harmonized,1.974
+2005,17.8,WSF Harmonized,2.176
+2006,18.059,WSF Harmonized,1.455
+2007,18.364,WSF Harmonized,1.688
+2008,18.708,WSF Harmonized,1.877
+2009,19.043,WSF Harmonized,1.788
+2010,19.233,WSF Harmonized,0.995
+2011,19.411,WSF Harmonized,0.929
+2012,19.553,WSF Harmonized,0.73
+2013,19.683,WSF Harmonized,0.666
+2014,19.867,WSF Harmonized,0.932
+2015,20.04,WSF Harmonized,0.873
+2016,20.155,WSF Harmonized,0.572
+2017,20.631,WSF Harmonized,2.363
+2018,20.891,WSF Harmonized,1.259
+2019,21.092,WSF Harmonized,0.962
+2020,21.331,WSF Harmonized,1.135
+2021,21.525,WSF Harmonized,0.911
+2022,21.705,WSF Harmonized,0.837
+2023,22.041,WSF Harmonized,1.548
+2024,22.293,WSF Harmonized,1.141
+2025,22.633,WSF Harmonized,1.528

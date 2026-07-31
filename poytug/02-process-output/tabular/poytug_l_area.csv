@@ -1,0 +1,6 @@
+bin,susceptibility,count,percentage
+Very low,1,0,0.0
+Low,2,0,0.0
+Medium,3,54,81.82
+High,4,12,18.18
+Very high,5,0,0.0
